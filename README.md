@@ -93,7 +93,7 @@ Further research could explore these relationships using additional financial in
 |---|---|
 | `TMDb_Investigate_a_Dataset_Maximus_Walker.ipynb` | Complete Jupyter Notebook containing the analysis and visualizations |
 | `TMDb_Investigate_a_Dataset_Maximus_Walker.html` | Exported HTML report |
-| `tmdb-movies(1).csv` | Original TMDb dataset |
+| `tmdb-movies.csv` | Original TMDb dataset |
 
 ## Running the Project
 
